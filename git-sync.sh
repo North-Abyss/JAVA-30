@@ -1,4 +1,4 @@
-#!/bin/bash
+add#!/bin/bash
 
 # Git Commit & Sync Script - /git-sync.sh
 # Syncs local repository with remote and optionally triggers Cloud CI/CD
@@ -20,7 +20,13 @@ git add .
 
 # Commit changes
 echo -e "${BLUE}Committing changes...${NC}"
-read -p "Enter commit message: " commit_message
+read -p "Enter commit message (press Enter for auto-generated message): " commit_message
+
+if [[ -z "$commit_message" ]]; then
+    commit_message="$(date '+%d-%b-%Y-T-%H:%M')"
+    echo -e "${YELLOW}Using auto commit message: $commit_message${NC}"
+fi
+
 git commit -m "$commit_message" || echo "No changes to commit"
 
 # Fetch latest changes from remote (this also fetches the latest tags)
