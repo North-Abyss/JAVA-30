@@ -1,0 +1,26 @@
+# LeetCode Problems
+
+1. Problem: 7 - Reverse Integer
+   - Problem Link: https://leetcode.com/problems/reverse-integer/
+   - Problem O/P:
+   ![7 - Reverse Integer](https://raw.githubusercontent.com/North-Abyss/JAVA-30/refs/heads/main/Tasks/7-Reverse%20Integer.png)
+
+2. Problem: 268 - Missing Number
+   - Problem Link: https://leetcode.com/problems/missing-number/
+   - Problem O/P:
+   ![268 - Missing Number](https://raw.githubusercontent.com/North-Abyss/JAVA-30/refs/heads/main/Tasks/268-Missing%20Number.png)
+
+3. Problem: 412 - Fizz Buzz
+   - Problem Link: https://leetcode.com/problems/fizz-buzz/
+   - Problem O/P:
+   ![412 - Fizz Buzz](https://raw.githubusercontent.com/North-Abyss/JAVA-30/refs/heads/main/Tasks/412-Fizz%20Buzz.png)
+
+4. Problem: 1979 - Find Greatest Common Divisor of Array
+   - Problem Link: https://leetcode.com/problems/find-greatest-common-divisor-of-array/
+   - Problem O/P:
+   ![1979 - Find Greatest Common Divisor of Array](https://raw.githubusercontent.com/North-Abyss/JAVA-30/refs/heads/main/Tasks/1979-Find%20Greatest%20Common%20Divisor%20of%20Array.png)
+
+5. Problem: 2235 - Add Two Integers
+   - Problem Link: https://leetcode.com/problems/add-two-integers/
+   - Problem O/P:
+   ![2235 - Add Two Integers](https://raw.githubusercontent.com/North-Abyss/JAVA-30/refs/heads/main/Tasks/2235-Add%20Two%20Integers.png)
