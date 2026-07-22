@@ -24,3 +24,13 @@
    - Problem Link: https://leetcode.com/problems/add-two-integers/
    - Problem O/P:
    ![2235 - Add Two Integers](https://raw.githubusercontent.com/North-Abyss/JAVA-30/refs/heads/main/Tasks/2235-Add%20Two%20Integers.png)
+
+6. Problem: 1672 - Richest Customer Wealth
+   - Problem Link: https://leetcode.com/problems/richest-customer-wealth/
+   - Problem O/P:
+   ![1672 - Richest Customer Wealth](https://raw.githubusercontent.com/North-Abyss/JAVA-30/refs/heads/main/Tasks/1672-Richest%20Customer%20Wealth.png)
+
+7. Problem: 1920 - Build Array from Permutation
+   - Problem Link: https://leetcode.com/problems/build-an-array-with-stack-operations/
+   - Problem O/P:
+   ![1920 - Build Array from Permutation](https://raw.githubusercontent.com/North-Abyss/JAVA-30/refs/heads/main/Tasks/1920-Build%20Array%20from%20Permutation.png)
