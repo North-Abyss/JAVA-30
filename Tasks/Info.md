@@ -15,27 +15,32 @@
    - Problem O/P:
    ![412 - Fizz Buzz](https://raw.githubusercontent.com/North-Abyss/JAVA-30/refs/heads/main/Tasks/412-Fizz%20Buzz.png)
 
-4. Problem: 1672 - Richest Customer Wealth
+4. Problem: 1342 - Number of Steps to Reduce a Number to Zero
+   - Problem Link: https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/
+   - Problem O/P:
+   ![1342 - Number of Steps to Reduce a Number to Zero](https://raw.githubusercontent.com/North-Abyss/JAVA-30/refs/heads/main/Tasks/1342-Number%20of%20Steps%20to%20Reduce%20a%20Number%20to%20Zero.png)
+
+5. Problem: 1672 - Richest Customer Wealth
    - Problem Link: https://leetcode.com/problems/richest-customer-wealth/
    - Problem O/P:
    ![1672 - Richest Customer Wealth](https://raw.githubusercontent.com/North-Abyss/JAVA-30/refs/heads/main/Tasks/1672-Richest%20Customer%20Wealth.png)
 
-5. Problem: 1920 - Build Array from Permutation
+6. Problem: 1920 - Build Array from Permutation
    - Problem Link: https://leetcode.com/problems/build-an-array-with-stack-operations/
    - Problem O/P:
    ![1920 - Build Array from Permutation](https://raw.githubusercontent.com/North-Abyss/JAVA-30/refs/heads/main/Tasks/1920-Build%20Array%20from%20Permutation.png)
 
-6. Problem: 1979 - Find Greatest Common Divisor of Array
+7. Problem: 1979 - Find Greatest Common Divisor of Array
    - Problem Link: https://leetcode.com/problems/find-greatest-common-divisor-of-array/
    - Problem O/P:
    ![1979 - Find Greatest Common Divisor of Array](https://raw.githubusercontent.com/North-Abyss/JAVA-30/refs/heads/main/Tasks/1979-Find%20Greatest%20Common%20Divisor%20of%20Array.png)
 
-7. Problem: 2114 - Maximum Number of Words Found in Sentences
+8. Problem: 2114 - Maximum Number of Words Found in Sentences
    - Problem Link: https://leetcode.com/problems/maximum-number-of-words-found-in-sentences/
    - Problem O/P:
-   ![2114 - Maximum Number of Words Found in Sentences](https://raw.githubusercontent.com/North-Abyss/JAVA-30/refs/heads/main/Tasks/2114-%20Maximum%20Number%20of%20Words%20Found%20in%20Sentences.png)
+   ![2114 - Maximum Number of Words Found in Sentences](https://raw.githubusercontent.com/North-Abyss/JAVA-30/refs/heads/main/Tasks/2114-Maximum%20Number%20of%20Words%20Found%20in%20Sentences.png)
 
-8. Problem: 2235 - Add Two Integers
+9. Problem: 2235 - Add Two Integers
    - Problem Link: https://leetcode.com/problems/add-two-integers/
    - Problem O/P:
    ![2235 - Add Two Integers](https://raw.githubusercontent.com/North-Abyss/JAVA-30/refs/heads/main/Tasks/2235-Add%20Two%20Integers.png)
