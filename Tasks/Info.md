@@ -40,7 +40,12 @@
    - Problem O/P:
    ![1920 - Build Array from Permutation](https://raw.githubusercontent.com/North-Abyss/JAVA-30/refs/heads/main/Tasks/1920-Build%20Array%20from%20Permutation.png)
 
-9. Problem: 1979 - Find Greatest Common Divisor of Array
+9. Problem: 1929 - Concatenation of Array
+   - Problem Link: https://leetcode.com/problems/concatenation-of-array/
+   - Problem O/P:
+   ![1929 - Concatenation of Array](https://raw.githubusercontent.com/North-Abyss/JAVA-30/refs/heads/main/Tasks/1929-Concatenation%20of%20Array.png)
+
+10. Problem: 1979 - Find Greatest Common Divisor of Array
    - Problem Link: https://leetcode.com/problems/find-greatest-common-divisor-of-array/
    - Problem O/P:
    ![1979 - Find Greatest Common Divisor of Array](https://raw.githubusercontent.com/North-Abyss/JAVA-30/refs/heads/main/Tasks/1979-Find%20Greatest%20Common%20Divisor%20of%20Array.png)
