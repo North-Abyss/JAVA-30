@@ -20,7 +20,12 @@
    - Problem O/P:
    ![1342 - Number of Steps to Reduce a Number to Zero](https://raw.githubusercontent.com/North-Abyss/JAVA-30/refs/heads/main/Tasks/1342-Number%20of%20Steps%20to%20Reduce%20a%20Number%20to%20Zero.png)
 
-5. Problem: 1672 - Richest Customer Wealth
+5. Problem: 1351 - Count Negative Numbers in a Sorted Matrix
+   - Problem Link: https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix/
+   - Problem O/P:
+   ![1351 - Count Negative Numbers in a Sorted Matrix](https://raw.githubusercontent.com/North-Abyss/JAVA-30/refs/heads/main/Tasks/1351-Count%20Negative%20Numbers%20in%20a%20Sorted%20Matrix.png)
+
+6. Problem: 1672 - Richest Customer Wealth
    - Problem Link: https://leetcode.com/problems/richest-customer-wealth/
    - Problem O/P:
    ![1672 - Richest Customer Wealth](https://raw.githubusercontent.com/North-Abyss/JAVA-30/refs/heads/main/Tasks/1672-Richest%20Customer%20Wealth.png)

@@ -70,6 +70,7 @@ public class BuiltinFunctions {
                 
         // Array functions
         int[] arr = {5, 2, 8, 1, 3};
+        int len = arr.length;
         Arrays.sort(arr);
         int[] copy = Arrays.copyOf(arr, arr.length);
         String arrString = Arrays.toString(arr);
