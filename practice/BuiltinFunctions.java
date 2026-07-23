@@ -60,8 +60,8 @@ public class BuiltinFunctions {
         //String functions
         String str = " Hello, World! ";
         int length = str.length();
-        char charAt = str.charAt(0);
-        String substring = str.substring(0, 5);
+        char charAt = str.charAt(1);
+        String substring = str.substring(1, 6);
         String upperCase = str.toUpperCase();
         String lowerCase = str.toLowerCase();
         String trim = str.trim();
@@ -74,6 +74,7 @@ public class BuiltinFunctions {
         int[] copy = Arrays.copyOf(arr, arr.length);
         String arrString = Arrays.toString(arr);
         List<Integer> arrList = Arrays.asList(1, 2, 3, 4, 5);
+
         // HashMap functions
         HashMap<String, Integer> map = new HashMap<>();
         map.put("one", 1);
@@ -82,7 +83,6 @@ public class BuiltinFunctions {
         boolean containsValue = map.containsValue(1);
         map.remove("one");
         
-
         //print all the results
         System.out.println("Max: "+max);
         System.out.println("Min: "+min);
@@ -104,9 +104,6 @@ public class BuiltinFunctions {
         System.out.println("Contains Key: "+containsKey);
         System.out.println("Contains Value: "+containsValue);  
         sc.close();
-
-
-        // GCD ?  
 
     }
 }
