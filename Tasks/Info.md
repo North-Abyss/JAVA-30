@@ -25,37 +25,42 @@
    - Problem O/P:
    ![1351 - Count Negative Numbers in a Sorted Matrix](https://raw.githubusercontent.com/North-Abyss/JAVA-30/refs/heads/main/Tasks/1351-Count%20Negative%20Numbers%20in%20a%20Sorted%20Matrix.png)
 
-6. Problem: 1572 - Matrix Diagonal Sum
+6. Problem: 1480 - Running Sum of 1d Array
+   - Problem Link: https://leetcode.com/problems/running-sum-of-1d-array/
+   - Problem O/P:
+   ![1480 - Running Sum of 1d Array](https://raw.githubusercontent.com/North-Abyss/JAVA-30/refs/heads/main/Tasks/1480-Running%20Sum%20of%201d%20Array.png)
+
+7. Problem: 1572 - Matrix Diagonal Sum
    - Problem Link: https://leetcode.com/problems/matrix-diagonal-sum/
    - Problem O/P:
    ![1572 - Matrix Diagonal Sum](https://raw.githubusercontent.com/North-Abyss/JAVA-30/refs/heads/main/Tasks/1572-Matrix%20Diagonal%20Sum.png)
 
-7. Problem: 1672 - Richest Customer Wealth
+8. Problem: 1672 - Richest Customer Wealth
    - Problem Link: https://leetcode.com/problems/richest-customer-wealth/
    - Problem O/P:
    ![1672 - Richest Customer Wealth](https://raw.githubusercontent.com/North-Abyss/JAVA-30/refs/heads/main/Tasks/1672-Richest%20Customer%20Wealth.png)
 
-8. Problem: 1920 - Build Array from Permutation
+9. Problem: 1920 - Build Array from Permutation
    - Problem Link: https://leetcode.com/problems/build-an-array-with-stack-operations/
    - Problem O/P:
    ![1920 - Build Array from Permutation](https://raw.githubusercontent.com/North-Abyss/JAVA-30/refs/heads/main/Tasks/1920-Build%20Array%20from%20Permutation.png)
 
-9. Problem: 1929 - Concatenation of Array
+10. Problem: 1929 - Concatenation of Array
    - Problem Link: https://leetcode.com/problems/concatenation-of-array/
    - Problem O/P:
    ![1929 - Concatenation of Array](https://raw.githubusercontent.com/North-Abyss/JAVA-30/refs/heads/main/Tasks/1929-Concatenation%20of%20Array.png)
 
-10. Problem: 1979 - Find Greatest Common Divisor of Array
+11. Problem: 1979 - Find Greatest Common Divisor of Array
    - Problem Link: https://leetcode.com/problems/find-greatest-common-divisor-of-array/
    - Problem O/P:
    ![1979 - Find Greatest Common Divisor of Array](https://raw.githubusercontent.com/North-Abyss/JAVA-30/refs/heads/main/Tasks/1979-Find%20Greatest%20Common%20Divisor%20of%20Array.png)
 
-10. Problem: 2114 - Maximum Number of Words Found in Sentences
+12. Problem: 2114 - Maximum Number of Words Found in Sentences
    - Problem Link: https://leetcode.com/problems/maximum-number-of-words-found-in-sentences/
    - Problem O/P:
    ![2114 - Maximum Number of Words Found in Sentences](https://raw.githubusercontent.com/North-Abyss/JAVA-30/refs/heads/main/Tasks/2114-Maximum%20Number%20of%20Words%20Found%20in%20Sentences.png)
 
-11. Problem: 2235 - Add Two Integers
+13. Problem: 2235 - Add Two Integers
    - Problem Link: https://leetcode.com/problems/add-two-integers/
    - Problem O/P:
    ![2235 - Add Two Integers](https://raw.githubusercontent.com/North-Abyss/JAVA-30/refs/heads/main/Tasks/2235-Add%20Two%20Integers.png)
