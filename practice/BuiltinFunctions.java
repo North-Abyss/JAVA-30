@@ -36,7 +36,6 @@ public class BuiltinFunctions {
         System.out.println("23. HashMap.containsValue()"); 
         System.out.println("24. HashMap.remove()");
 
-
         exampleFunction();
     }
     static void exampleFunction() {
